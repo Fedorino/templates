@@ -136,7 +136,7 @@
       "desc": "(Advanced) Map group",
       "display": "Map group",
       "internal": false,
-      "type": "integer"
+      "type": "string"
     },
     "gamemode": {
       "value": "0",
